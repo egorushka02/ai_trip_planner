@@ -7,8 +7,6 @@ from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
 
 
-
-
 class ConfigLoader:
     
     def __init__(self):
